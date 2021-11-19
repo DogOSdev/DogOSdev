@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://raw.githubusercontent.com/DogOSdev/DogOSdev/main/img/Logo_with_PC_500.png" alt="A shiba inu pixel art dog displaying in a old VGA monitor.">
+</p>
+<h1 align="center">DogOS</h1>
+<p align="center">A Operating System made in CosmosOS and C#</p>
 
-<!--
-**DogOSdev/DogOSdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="margin-bottom: 0px !important;">
+    <h2 align="center" style="margin-top: 0px;">Repositories</h2>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/DogOSdev/dogos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=dogos&theme=chartreuse-dark" alt="DogOS Repo Card"></a>
+    <a href="https://github.com/DogOSdev/dogos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=Website&theme=chartreuse-dark" alt="DogOS Website Repo Card"></a>
+    <a href="https://github.com/DogOSdev/dogos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=DogOSdev.github.io&theme=chartreuse-dark" alt="DogOS DogOSdev.github.io Repo Card"></a>
+</p>
