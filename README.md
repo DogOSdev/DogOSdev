@@ -10,6 +10,6 @@
 
 <p align="center">
     <a href="https://github.com/DogOSdev/dogos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=dogos&theme=chartreuse-dark" alt="DogOS Repo Card"></a>
-    <a href="https://github.com/DogOSdev/dogos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=Website&theme=chartreuse-dark" alt="DogOS Website Repo Card"></a>
-    <a href="https://github.com/DogOSdev/dogos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=DogOSdev.github.io&theme=chartreuse-dark" alt="DogOS DogOSdev.github.io Repo Card"></a>
+    <a href="https://github.com/DogOSdev/Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=Website&theme=chartreuse-dark" alt="DogOS Website Repo Card"></a>
+    <a href="https://github.com/DogOSdev/DogOSdev.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=DogOSdev.github.io&theme=chartreuse-dark" alt="DogOS DogOSdev.github.io Repo Card"></a>
 </p>
