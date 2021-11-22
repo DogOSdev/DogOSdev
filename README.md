@@ -13,4 +13,5 @@
     <a href="https://github.com/DogOSdev/Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=Website&theme=chartreuse-dark" alt="DogOS Website Repo Card"></a>
     <a href="https://github.com/DogOSdev/DogOSdev.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=DogOSdev.github.io&theme=chartreuse-dark" alt="DogOS DogOSdev.github.io Repo Card"></a>
     <a href="https://github.com/DogOSdev/Filesystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=Filesystem&theme=chartreuse-dark" alt="DogOS Filesystem Repo Card"></a>
+    <a href="https://github.com/DogOSdev/DogOSinstaller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DogOSdev&repo=DogOSinstaller&theme=chartreuse-dark" alt="DogOS DogOSinstaller Repo Card"></a>
 </p>
